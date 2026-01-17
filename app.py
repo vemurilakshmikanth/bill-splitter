@@ -1,8 +1,3 @@
-"""
-Bill Splitter Pro - PRODUCTION CODE
-With Claude Haiku + Detailed Group Summary
-"""
-
 import streamlit as st
 import anthropic
 from PIL import Image
