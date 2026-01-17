@@ -21,7 +21,7 @@ A smart bill splitting application that uses AI to extract items from grocery bi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/bill-splitter.git
+git clone https://github.com/vemurilakshmikanth/bill-splitter.git
 cd bill-splitter
 ```
 
